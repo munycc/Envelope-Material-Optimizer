@@ -1,0 +1,42 @@
+{
+    "Wall1": {
+        "area": 100.0
+    },
+    "Wall2": {
+        "area": 112.0
+    },
+    "Wall3": {
+        "area": 100.0
+    },
+    "Wall4": {
+        "area": 120.0
+    },
+    "Floor1": {
+        "area": 100.0
+    },
+    
+    "Floor2": {
+        "area": 100.0
+    },
+    "Ceiling1": {
+        "area": 100.0
+    },
+    "Ceiling2": {
+        "area": 100.0
+    },
+    "Roof": {
+        "area": 200.0
+    },
+    "Door1": {
+        "area": 15.0
+    },
+    "Door2": {
+        "area": 15.0
+    },
+    "Window1": {
+        "area": 20.0
+    },
+    "Window2": {
+        "area": 20.0
+    }
+}

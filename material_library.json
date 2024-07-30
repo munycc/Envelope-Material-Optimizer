@@ -1,0 +1,370 @@
+[
+    {
+      "name": "Fiberglass Insulation + Gypsum Board + Concrete Block",
+      "category": "wall",
+      "R_value": 5.35,
+      "cost_per_sqm": 45
+    },
+    {
+      "name": "Concrete Block + Fiberglass Insulation + Foam Board Insulation",
+      "category": "wall",
+      "R_value": 9.9,
+      "cost_per_sqm": 80
+    },
+    {
+      "name": "Fiberglass Insulation + Plaster + Gypsum Board",
+      "category": "wall",
+      "R_value": 4.47,
+      "cost_per_sqm": 60
+    },
+    {
+      "name": "Fiberglass Insulation + Gypsum Board + Foam Board Insulation",
+      "category": "wall",
+      "R_value": 8.15,
+      "cost_per_sqm": 75
+    },
+    {
+        "name": "Brick + Fiberglass Insulation + Drywall",
+        "category": "wall",
+        "R_value": 6.0,
+        "cost_per_sqm": 22
+    },
+
+    {
+        "name": "Concrete Block + Spray Foam Insulation + Gypsum Board",
+        "category": "wall",
+        "R_value": 10.0,
+        "cost_per_sqm": 28
+    },
+    {
+        "name": "Metal Stud + Fiberglass Batting + Gypsum Board",
+        "category": "wall",
+        "R_value": 8.2,
+        "cost_per_sqm": 25
+    },
+    {
+        "name": "Wood Stud + Cellulose Insulation + Plaster",
+        "category": "wall",
+        "R_value": 7.5,
+        "cost_per_sqm": 20
+    },
+    {
+        "name": "Wood Stud + Fiberglass Insulation + Plywood",
+        "category": "wall",
+        "R_value": 5.8,
+        "cost_per_sqm": 18
+    },
+    {
+        "name": "Steel Stud + Polyurethane Foam + Gypsum Board",
+        "category": "wall",
+        "R_value": 9.3,
+        "cost_per_sqm": 27
+    },
+
+    {
+      "name": "Carpet + Hardwood + Concrete Slab",
+      "category": "floor",
+      "R_value": 3.01,
+      "cost_per_sqm": 65
+    },
+    {
+      "name": "Carpet + Concrete Slab + Foam Board Insulation",
+      "category": "floor",
+      "R_value": 7.1,
+      "cost_per_sqm": 85
+    },
+    {
+      "name": "Hardwood + Concrete Slab + Plaster",
+      "category": "floor",
+      "R_value": 1.33,
+      "cost_per_sqm": 55
+    },
+    {
+      "name": "Carpet + Foam Board Insulation + Gypsum Board",
+      "category": "floor",
+      "R_value": 7.91,
+      "cost_per_sqm": 75
+    },
+
+    {
+        "name": "Laminate Flooring + Cork Underlayment + Concrete Slab",
+        "category": "floor",
+        "R_value": 4.0,
+        "cost_per_sqm": 15
+    },
+    
+    {
+        "name": "Tile + Radiant Barrier + Concrete Slab",
+        "category": "floor",
+        "R_value": 2.5,
+        "cost_per_sqm": 18
+    },
+    
+    {
+        "name": "Vinyl Flooring + Foam Underlayment + Concrete Slab",
+        "category": "floor",
+        "R_value": 3.5,
+        "cost_per_sqm": 14
+    },
+    
+    {
+        "name": "Engineered Wood + Cork Underlayment + Concrete Slab",
+        "category": "floor",
+        "R_value": 4.8,
+        "cost_per_sqm": 20
+    },
+    {
+        "name": "Bamboo Flooring + Foam Underlayment + Concrete Slab",
+        "category": "floor",
+        "R_value": 3.9,
+        "cost_per_sqm": 17
+    },
+    {
+        "name": "Vinyl Flooring + Radiant Barrier + Concrete Slab",
+        "category": "floor",
+        "R_value": 2.8,
+        "cost_per_sqm": 16
+    },
+
+    {
+      "name": "Fiberglass Batting + Foam Board Insulation + Plaster",
+      "category": "ceiling",
+      "R_value": 9.02,
+      "cost_per_sqm": 95
+    },
+    {
+      "name": "Fiberglass Batting + Plaster + Gypsum Board",
+      "category": "ceiling",
+      "R_value": 4.47,
+      "cost_per_sqm": 65
+    },
+    {
+      "name": "Foam Board Insulation + Gypsum Board + Plaster",
+      "category": "ceiling",
+      "R_value": 5.77,
+      "cost_per_sqm": 80
+    },
+    {
+      "name": "Fiberglass Batting + Foam Board Insulation + Gypsum Board",
+      "category": "ceiling",
+      "R_value": 8.45,
+      "cost_per_sqm": 90
+    },
+    {
+      "name": "Asphalt Shingles + Foam Board Insulation + Metal Roofing",
+      "category": "roof",
+      "R_value": 5.44,
+      "cost_per_sqm": 85
+    },
+    {
+      "name": "Asphalt Shingles + Foam Board Insulation + Fiberglass Insulation",
+      "category": "roof",
+      "R_value": 8.14,
+      "cost_per_sqm": 100
+    },
+    {
+      "name": "Clay Tile + Foam Board Insulation + Fiberglass Insulation",
+      "category": "roof",
+      "R_value": 9.28,
+      "cost_per_sqm": 110
+    },
+    {
+      "name": "Clay Tile + Fiberglass Insulation + Gypsum Board",
+      "category": "roof",
+      "R_value": 4.73,
+      "cost_per_sqm": 95
+    },
+    {
+        "name": "Acoustic Ceiling Tiles + Fiberglass Insulation + Gypsum Board",
+        "category": "ceiling",
+        "R_value": 10.0,
+        "cost_per_sqm": 35
+    },
+    {
+        "name": "Gypsum Board + Cellulose Insulation + Metal Lath",
+        "category": "ceiling",
+        "R_value": 8.5,
+        "cost_per_sqm": 30
+    },
+    {
+        "name": "Wood Paneling + Fiberglass Batting + Gypsum Board",
+        "category": "ceiling",
+        "R_value": 7.8,
+        "cost_per_sqm": 28
+    },
+    {
+        "name": "Metal Ceiling Tiles + Spray Foam Insulation + Gypsum Board",
+        "category": "ceiling",
+        "R_value": 9.5,
+        "cost_per_sqm": 32
+    },
+    {
+        "name": "Wood Paneling + Cellulose Insulation + Plaster",
+        "category": "ceiling",
+        "R_value": 7.2,
+        "cost_per_sqm": 25
+    },
+    {
+        "name": "Acoustic Ceiling Tiles + Spray Foam Insulation + Gypsum Board",
+        "category": "ceiling",
+        "R_value": 9.8,
+        "cost_per_sqm": 34
+    },
+    {
+      "name": "Wood Door + Fiberglass Insulation + Gypsum Board",
+      "category": "door",
+      "R_value": 3.5,
+      "cost_per_sqm": 120
+    },
+    {
+      "name": "Steel Door + Foam Board Insulation + Gypsum Board",
+      "category": "door",
+      "R_value": 5.5,
+      "cost_per_sqm": 140
+    },
+    {
+      "name": "Fiberglass Door + Fiberglass Insulation + Plaster",
+      "category": "door",
+      "R_value": 4.4,
+      "cost_per_sqm": 130
+    },
+    {
+      "name": "Glass Door + Foam Board Insulation + Plaster",
+      "category": "door",
+      "R_value": 2.1,
+      "cost_per_sqm": 110
+    },
+    {
+      "name": "Double-pane Window + Argon Gas + Low-E Glass",
+      "category": "window",
+      "R_value": 3.0,
+      "cost_per_sqm": 170
+    },
+    {
+      "name": "Triple-pane Window + Argon Gas + Low-E Glass",
+      "category": "window",
+      "R_value": 5.0,
+      "cost_per_sqm": 220
+    },
+    {
+      "name": "Double-pane Window + Air + Low-E Glass",
+      "category": "window",
+      "R_value": 2.5,
+      "cost_per_sqm": 150
+    },
+    {
+      "name": "Triple-pane Window + Krypton Gas + Low-E Glass",
+      "category": "window",
+      "R_value": 6.0,
+      "cost_per_sqm": 250
+    },
+    {
+        "name": "Asphalt Shingles + Cellulose Insulation + Metal Roofing",
+        "category": "roof",
+        "R_value": 6.5,
+        "cost_per_sqm": 18
+      },
+      {
+        "name": "Wood Shingles + Spray Foam Insulation + Metal Roofing",
+        "category": "roof",
+        "R_value": 7.2,
+        "cost_per_sqm": 22
+      },
+      {
+        "name": "Rubber Roofing + Fiberglass Insulation + Metal Roofing",
+        "category": "roof",
+        "R_value": 7.9,
+        "cost_per_sqm": 25
+      },
+      {
+        "name": "Metal Roofing + Cellulose Insulation + Plywood",
+        "category": "roof",
+        "R_value": 6.0,
+        "cost_per_sqm": 20
+      },
+      {
+        "name": "Concrete Tile + Polyurethane Foam + Metal Roofing",
+        "category": "roof",
+        "R_value": 8.1,
+        "cost_per_sqm": 27
+      },
+      {
+        "name": "Slate Tile + Fiberglass Insulation + Metal Roofing",
+        "category": "roof",
+        "R_value": 7.5,
+        "cost_per_sqm": 24
+      },
+      {
+        "name": "Fiberglass Door + Polyurethane Foam + Gypsum Board",
+        "category": "door",
+        "R_value": 4.8,
+        "cost_per_sqm": 35
+      },
+      {
+        "name": "Steel Door + Fiberglass Insulation + Gypsum Board",
+        "category": "door",
+        "R_value": 5.2,
+        "cost_per_sqm": 38
+      },
+      {
+        "name": "Wood Door + Spray Foam Insulation + Gypsum Board",
+        "category": "door",
+        "R_value": 4.6,
+        "cost_per_sqm": 32
+      },
+      {
+        "name": "Aluminum Door + Polyurethane Foam + Gypsum Board",
+        "category": "door",
+        "R_value": 5.0,
+        "cost_per_sqm": 36
+      },
+      {
+        "name": "PVC Door + Fiberglass Insulation + Plaster",
+        "category": "door",
+        "R_value": 4.4,
+        "cost_per_sqm": 30
+      },
+      {
+        "name": "Glass Door + Polyurethane Foam + Gypsum Board",
+        "category": "door",
+        "R_value": 3.0,
+        "cost_per_sqm": 28
+      },
+      {
+        "name": "Quadruple-pane Window + Argon Gas + Low-E Glass",
+        "category": "window",
+        "R_value": 7.0,
+        "cost_per_sqm": 50
+      },
+      {
+        "name": "Quadruple-pane Window + Krypton Gas + Low-E Glass",
+        "category": "window",
+        "R_value": 7.5,
+        "cost_per_sqm": 55
+      },
+      {
+        "name": "Triple-pane Window + Krypton Gas + Double Low-E Glass",
+        "category": "window",
+        "R_value": 6.8,
+        "cost_per_sqm": 48
+      },
+      {
+        "name": "Double-pane Window + Air + Double Low-E Glass",
+        "category": "window",
+        "R_value": 3.5,
+        "cost_per_sqm": 30
+      },
+      {
+        "name": "Triple-pane Window + Argon Gas + Double Low-E Glass",
+        "category": "window",
+        "R_value": 6.0,
+        "cost_per_sqm": 45
+      },
+      {
+        "name": "Quadruple-pane Window + Argon Gas + Double Low-E Glass",
+        "category": "window",
+        "R_value": 7.2,
+        "cost_per_sqm": 52
+      }
+  ]
+  
